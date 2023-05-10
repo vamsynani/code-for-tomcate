@@ -9,12 +9,12 @@
   <title>Random Image's Testing</title>
 </head>
 <body>
-   <h1>Random Image's ...</h1>
+   <h1>VARA Image's ...</h1>
   
   <div class="container"></div>
 </body>
 <script src="./script.js"></script>
 
-  <footer>Devloped by Gopi Kothalanka and vamsi </footer>
+  <footer>Devloped by Gopi Kothalanka and vamsi nani </footer>
 </html>
 
